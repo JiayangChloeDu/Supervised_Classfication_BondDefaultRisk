@@ -1,2 +1,2 @@
-# Classfication_Feature_Engineering
-This project evaluates if a bond issuer should be avoided by leveraging the Beneish model in feature engineering to assess the company's financial health.
+# Bond Default Risk Prediction
+This project is dedicated to analyzing bond issuers' default risks to offer secure investment advice. The focal point is the construction of meaningful features that reflect the financial health of companies, pivotal in the financial sector. Additionally, it involves the creation of labels, primarily utilizing historical credit ratings, to train models that can predict potential defaults, thereby guiding investors towards safer investment avenues.
